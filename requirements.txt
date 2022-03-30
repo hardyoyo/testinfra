@@ -1,0 +1,6 @@
+# necessary for running any sort of testinfra test
+pytest-testinfra
+
+# nice to have, for running via SSH, and running in parallel
+paramiko
+pytest-xdist
