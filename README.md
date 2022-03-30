@@ -2,6 +2,14 @@
 
 An experimental collection of potentially helpful testinfra configs. These will probably get moved into other repositories if they end up being useful.
 
+## Setup
+
+Install the requirements with:
+
+```
+pip install -r ./requirements.txt
+```
+
 ## Usage
 
 ```
