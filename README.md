@@ -18,3 +18,6 @@ py.test -v
 ```
 
 More docs on the testinfra module for Python: https://testinfra.readthedocs.io/en/latest/
+
+
+[LICENSE: MIT](./LICENSE)
