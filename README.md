@@ -1,6 +1,6 @@
 # TestInfra Incubator
 
-An experimental collection of potentially helpful TestNnfra configs. These will probably get moved into other repositories if they end up being useful.
+An experimental collection of potentially helpful TestInfra configs. These will probably get moved into other repositories if they end up being useful.
 
 ## Setup
 
